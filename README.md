@@ -1,2 +1,2 @@
-# Qa
-My job
+# Postman
+My requests, autotests, GET and POST method
